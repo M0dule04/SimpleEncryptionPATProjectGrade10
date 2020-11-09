@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/07 17:06:15.000.852,=D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/07 17:12:42.000.634,D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmEncrypt_u.dfm</Transaction>
+    <Transaction>2020/09/07 17:12:42.000.634,D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmEncrypt_u.pas</Transaction>
+    <Transaction>2020/09/07 17:12:57.000.668,=D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/07 17:13:15.000.392,D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmDecrypt_u.pas</Transaction>
+    <Transaction>2020/09/07 17:13:15.000.392,D:\Users\deric\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmDecrypt_u.dfm</Transaction>
+    <Transaction>2020/09/07 17:17:32.000.051,D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmEncrypt_u.pas=D:\Users\deric\Documents\Embarcadero\Studio\Projects\IT PAT gr10\frmEncrypt_u.pas</Transaction>
+    <Transaction>2020/09/07 17:17:32.000.051,D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmEncrypt_u.dfm=D:\Users\deric\Documents\Embarcadero\Studio\Projects\IT PAT gr10\frmEncrypt_u.dfm</Transaction>
+    <Transaction>2020/09/07 17:17:33.000.986,D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmDecrypt_u.pas=D:\Users\deric\Documents\Embarcadero\Studio\Projects\IT PAT gr10\frmDecrypt_u.pas</Transaction>
+    <Transaction>2020/09/07 17:17:33.000.986,D:\Users\deric\Documents\Embarcadero\Studio\Projects\frmDecrypt_u.dfm=D:\Users\deric\Documents\Embarcadero\Studio\Projects\IT PAT gr10\frmDecrypt_u.dfm</Transaction>
+    <Transaction>2020/09/07 17:17:36.000.809,D:\Users\deric\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Users\deric\Documents\Embarcadero\Studio\Projects\IT PAT gr10\Project1.dproj</Transaction>
+    <Transaction>2020/10/06 14:30:49.000.153,D:\Users\deric\Desktop\IT PAT gr10\frmDecrypt_u.pas=D:\Users\deric\Desktop\IT PAT gr10\frmKeycode_u.pas</Transaction>
+    <Transaction>2020/10/06 14:30:49.000.153,D:\Users\deric\Desktop\IT PAT gr10\frmDecrypt_u.dfm=D:\Users\deric\Desktop\IT PAT gr10\frmKeycode_u.dfm</Transaction>
+    <Transaction>2020/10/21 16:58:09.000.412,D:\Users\deric\Desktop\DerichHavenga_PAT\frmKeycode_u.pas=</Transaction>
+    <Transaction>2020/10/21 16:58:20.000.548,=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas</Transaction>
+    <Transaction>2020/10/21 16:58:40.000.910,D:\Users\deric\Desktop\DerichHavenga_PAT\frmSettings_u.pas=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas</Transaction>
+    <Transaction>2020/10/21 16:59:17.000.242,=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas</Transaction>
+    <Transaction>2020/10/21 16:59:35.000.276,D:\Users\deric\Desktop\DerichHavenga_PAT\frmSettings_u.pas=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas</Transaction>
+    <Transaction>2020/10/21 16:59:35.000.276,D:\Users\deric\Desktop\DerichHavenga_PAT\frmSettings_u.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.dfm</Transaction>
+    <Transaction>2020/10/24 17:48:23.000.721,D:\Users\deric\Desktop\DerichHavenga_PAT\frmCypher_u.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT\frmEncrypt_u.dfm</Transaction>
+    <Transaction>2020/10/24 17:48:23.000.721,D:\Users\deric\Desktop\DerichHavenga_PAT\frmCypher_u.pas=D:\Users\deric\Desktop\DerichHavenga_PAT\frmEncrypt_u.pas</Transaction>
+    <Transaction>2020/10/24 18:18:47.000.801,D:\Users\deric\Desktop\DerichHavenga_PAT\frmSettings_u.pas=</Transaction>
+    <Transaction>2020/10/25 06:57:56.000.678,=D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas</Transaction>
+    <Transaction>2020/10/25 06:58:21.000.740,D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.pas=D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions.pas</Transaction>
+    <Transaction>2020/10/25 06:58:21.000.740,D:\Users\deric\Desktop\DerichHavenga_PAT\Unit1.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions.dfm</Transaction>
+    <Transaction>2020/10/25 07:09:00.000.187,D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions_u.dfm</Transaction>
+    <Transaction>2020/10/25 07:09:00.000.187,D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions.pas=D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions_u.pas</Transaction>
+    <Transaction>2020/10/26 19:57:32.000.703,D:\Users\deric\Desktop\DerichHavenga_PAT\frmFileOptions_u.pas=</Transaction>
+    <Transaction>2020/11/05 12:21:09.000.398,=D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Unit1.pas</Transaction>
+    <Transaction>2020/11/05 12:23:37.000.305,D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Unit1.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Splash.dfm</Transaction>
+    <Transaction>2020/11/05 12:23:37.000.305,D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Unit1.pas=D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Splash.pas</Transaction>
+    <Transaction>2020/11/05 12:24:00.000.007,D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Splash.dfm=D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\frmSplashScreen_u.dfm</Transaction>
+    <Transaction>2020/11/05 12:24:00.000.007,D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\Splash.pas=D:\Users\deric\Desktop\DerichHavenga_PAT - Copy\frmSplashScreen_u.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

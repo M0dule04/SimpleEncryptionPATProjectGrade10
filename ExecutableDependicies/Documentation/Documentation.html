@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Derich Havenga IT PAT 2020 Documentation</title>
+</head>
+<script>
+	function Browse() {
+		document.getElementById("ButtonInfo").innerHTML = 'Opens a file explorer dialog so the user(you) can choose a file to use.';
+	}
+	function Randomize(){
+		document.getElementById("ButtonInfo").innerHTML = 'Makes a randomly genarated Keycode into the field';
+	}
+	function Cipher(){
+		document.getElementById("ButtonInfo").innerHTML = 'Either encrypts or decrypts text dependent on the radiobuttons';
+	}
+	function Save(){
+		document.getElementById("ButtonInfo").innerHTML = 'Opens a file explorer dialog where the user(you) can choose where to save a file';
+	}
+	function Copy(){
+		document.getElementById("ButtonInfo").innerHTML = 'Copies the text onto the system clipboard (you can press ctrl + v to paste it.).';
+	}
+	function Reset(){
+		document.getElementById("ButtonInfo").innerHTML = 'Deletes the text in the textfield';
+	}
+	function Animations(){
+		document.getElementById("ButtonInfo").innerHTML = 'Turns Animations on or off';
+	}
+	function Theme(){
+		document.getElementById("ButtonInfo").innerHTML = 'Turns the dark theme on or off';
+	}
+</script>
+
+
+
+
+
+<h2>Derich Havenga IT PAT 2020 Documentation</h2>
+<body style="background-color:#96A4A8;">
+<h3>About:</h3> 
+<p>
+The software takes a text message and converts it to gibberish with a unique code and only with the unique code or key can it be translated.
+</p>
+
+
+</p>
+<h3>How to use software:</h3>
+<img src="Programm.png" alt="Programm">
+
+<i>
+<ul>
+<li><b>Step one:</b> Press <b>Browse</b> or <b>Enter</b> a message into the text field.
+<li><b>Step two:</b> Select either <b>Encrypt</b> or <b>decrypt.</b>
+<li><b>Step three:</b> Enter a ten digit code <b>ex. ABCDEFGHIJ</b>
+<li><b>Step four:</b>Press the <b>encrypt / decrypt </b> button.
+<li><b>Step five:</b> Sit back and relax for a few milliseconds <b>(Optional)</b>.
+<li><b>Step six: Save </b> in text document or <img src="Copytoclipboard.bmp" alt="CopyToClipboard">(copy) text.
+</ul>
+</i>
+
+<h3>What every button means.</h3>
+
+<p><button type="button" onClick="Browse()">Browse...</button> <button type="button" onClick="Randomize()">Randomize</button> <button type="button" onClick="Cipher()">Encrypt/Decrypt</button> <button type="button" onClick="Save()">Save As...</button></p>
+<p><button type="button" onClick="Copy()"><img src="Copytoclipboard.bmp" alt="CopyToClipboard"></button> <button type="button" onClick="Reset()">Reset</button> <button type="button" onClick="Animations()">Animations</button> <button type="button" onClick="Theme()">Dark/Light</button></p>
+
+<p id="ButtonInfo"></p>
+
+<h3>Troubleshooting</h3>
+<p>
+<ul>
+<li><b><u>When I decrypt the scentence isn't readable.</u> solution:  </b>  You didn't enter the correct keycode.
+<li><b><u>The programm does not allow me to press the encrypt/decrypt button</u> Solution:</b> Enter a keycode or enter a keycode that is 10 characters in length.
+<li><b>Other errors:</b> 							<s>Developer doesn't know what he's doing.</s> 
+</ul>
+</p> 
+</body>
+</html> 
+
+
+
